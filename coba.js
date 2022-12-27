@@ -1,1 +1,1 @@
-console.log("makan apa")
+console.log("hello kamu")
